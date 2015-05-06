@@ -4,7 +4,7 @@
   },
   "rules": {
     "block-scoped-var": 2,
-    "brace-style": [2, "1tbs"],
+    "brace-style": [2, "stroustrup"],
     "camelcase": 1,
     "curly": 2,
     "eol-last": 2,
