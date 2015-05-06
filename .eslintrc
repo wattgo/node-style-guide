@@ -21,7 +21,7 @@
     "quotes": [2, "single", "avoid-escape"],
     "semi": [2, "always"],
     "space-after-keywords": [2, "always"],
-    "space-in-brackets": [2, "never"],
+    "space-in-brackets": [2, "always"],
     "space-unary-ops": 2
   }
 }
